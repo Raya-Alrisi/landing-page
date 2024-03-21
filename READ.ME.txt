@@ -1,0 +1,24 @@
+# Refresh Web - Landing Page
+# Done By: Raya Khalifa Alrisi
+
+welcome to the Refresh Web Landing Page project. this project is a simple
+and responsive landing page built using HTML,CSS, and JavaScript. It 
+features multiple sections with smooth scrolling navigation, hover effects,
+a card section for services, and a contact form.
+
+# Table of Content 
+1- index.html include:
+    * Home
+    * About Us
+    * Service
+    * Contact
+    * Footer
+    * Navigation
+2- css file include style.css
+3- js file include script.js
+4- img file include different images
+
+# Project Structure:
+* index.html
+* css/style.css
+* js/script.js
